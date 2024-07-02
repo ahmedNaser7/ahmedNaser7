@@ -16,10 +16,6 @@
 
 - 🌱 I’m currently learning **jetpack compose**
 
-- 💬 Ask me about **Android native**
-
-- 📫 How to reach me **ahmed.abdelnasser.mohamed.fekry@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_1GQ7mlXnT1MB28rKQN3F53mIo0R6CBQ/view](https://drive.google.com/file/d/1_1GQ7mlXnT1MB28rKQN3F53mIo0R6CBQ/view)
 
 - ⚡ Fun fact **i love playing Wild Rift**
@@ -27,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ahmed-abd-el-nasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-abd-el-nasser" height="30" width="40" /></a>
+<a href="mailto:ahmed.abdelnasser.mohamed.fekry@gmail.com?subject=Hello%20Ahmed,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23650026/ahmed-abdelnaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23650026/ahmed-abdelnaser" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ahmed_nasser77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahmed_nasser77/" height="30" width="40" /></a>
 </p>

@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **jetpack compose**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_1GQ7mlXnT1MB28rKQN3F53mIo0R6CBQ/view](https://drive.google.com/file/d/1_1GQ7mlXnT1MB28rKQN3F53mIo0R6CBQ/view)
-
 - ⚡ Fun fact **I love playing Wild Rift**
 
 <h3 align="left">Connect with me:</h3>

@@ -10,11 +10,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on [Tech Market](https://github.com/ahmedNaser7/Tech-Market)
-
-- 🌱 I’m currently learning **jetpack compose**
-
-- ⚡ Fun fact **I love playing Wild Rift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

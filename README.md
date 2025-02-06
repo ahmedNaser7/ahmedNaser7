@@ -39,7 +39,7 @@
 ### Frameworks & Libraries
 
 <p>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=android-native&logoColor=white"></a>
+    <a href="#"><img alt="Android Native" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=android-native&logoColor=green"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 
@@ -47,6 +47,8 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-00f.svg?logo=mysql&logoColor=ornage"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-00f.svg?logo=mysql&logoColor=green"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
@@ -55,24 +57,22 @@
 <p>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
   
 ## Connect with Me:
   
   <p>
-<a href="https://github.com/ahmedNaser7/ahmedNaser7"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/ahmed-abd-el-nasser/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:ahmed.abdelnasser.mohamed.fekry@gmail.co"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/ahmedNaser7/ahmedNaser7"><img src="https://img.shields.io/badge/-ahmedNaser7-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/ahmed-abd-el-nasser/"><img src="https://img.shields.io/badge/-ahmed-abd-el-nasser-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:ahmed.abdelnasser.mohamed.fekry@gmail.com"><img src="https://img.shields.io/badge/-ahmed.abdelnasser.mohamed.fekry@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<!-- <a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a> -->
 </p>
   
 <hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
  
 
 

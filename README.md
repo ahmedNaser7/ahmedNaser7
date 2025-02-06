@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Software Enigneering :Android+Developer;VFX+Artist;C%2B%2B+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines= Software Enigneering ; Android+Developer;VFX+Artist;C%2B%2B+Lover">
 </p>
 
 
@@ -21,8 +21,7 @@
   <li> I love to solve Data Structure and Algorithm Problems . </li>
 <ul>
 
-
-<br/><br/>
+<br/>
 
 ## Favorite Tools
 
@@ -40,7 +39,7 @@
 ### Frameworks & Libraries
 
 <p>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=android-native&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 

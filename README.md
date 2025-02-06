@@ -37,7 +37,7 @@
 ### Frameworks & Libraries
 
 <p>
-    <a href="#"><img alt="Android Native" src="https://img.shields.io/badge/Android-darkgreen.svg?logo=android&logoColor=green"></a>
+    <a href="#"><img alt="Android Native" src="https://img.shields.io/badge/Android%20Native-green.svg?logo=android&logoColor=darkgreen"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 

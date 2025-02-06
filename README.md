@@ -9,49 +9,21 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Android+Developer;Game+Developer;Graphic+Designer;VFX+Artist;C%2B%2B+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Software Enigneering :Android+Developer;VFX+Artist;C%2B%2B+Lover">
 </p>
 
-
-<p align="center">
-    
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
-  </a>
-  <a href="https://github.com/DenverCoder1?tab=followers">om-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    <img alt="followers" title="Follow me on Github" src="https://cust
-  </a>
-  
-</p>
 
 
   ## About Me
 <ul>
   <li> I’m currently working on Android Developement with Android Native. </li>
-  <li> I love to solve Data Structure and Algorithm Problems with C++. </li>
-  <li> I'm a Computer Science Engineering Student  </li>
+  <li> I'm a Computer Science Engineering Student (Will Graduate in 2025)  </li>
+  <li> I love to solve Data Structure and Algorithm Problems . </li>
 <ul>
 
 
-  
-  ## Contribution Streak
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiswal4sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal4sudeep&theme=monokai-metallian&hide_border=true"/>
-</p>
-  
-  
-  ## GitHub Statistics
-  
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jaiswal4sudeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal4sudeep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  
 <br/><br/>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
 ## Favorite Tools
 
 ### Programming Languages

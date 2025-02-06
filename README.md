@@ -65,7 +65,7 @@
   
   <p>
 <a href="https://github.com/ahmedNaser7/ahmedNaser7"><img src="https://img.shields.io/badge/-ahmedNaser7-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/ahmed-abd-el-nasser/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/ahmed-abd-el-nasser/"><img src="https://img.shields.io/badge/-ahmed.abdelnasser.mohamed-blue?logo=linkedin&style=flat-square"></a>
 <a href="mailto:ahmed.abdelnasser.mohamed.fekry@gmail.com"><img src="https://img.shields.io/badge/-ahmed.abdelnasser.mohamed.fekry@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <!-- <a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a> -->
 </p>

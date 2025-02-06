@@ -17,7 +17,7 @@
   ## About Me
 <ul>
   <li> I’m currently working on Android Developement with Android Native. </li>
-  <li> I'm a Computer Science Engineering Student (Will Graduate in 2025)  </li>
+  <li> I'm a Computer Science Engineering Student  </li>
   <li> I love to solve Data Structure and Algorithm Problems . </li>
 <ul>
 
@@ -45,7 +45,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-00f.svg?logo=mysql&logoColor=ornage"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-01f.svg?logo=mysql&logoColor=ornage"></a>
     <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-00f.svg?logo=mysql&logoColor=green"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>

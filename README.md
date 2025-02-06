@@ -45,7 +45,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange.svg?logo=firebase&logoColor=ornage"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-white.svg?logo=firebase&logoColor=orange"></a>
     <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-black.svg?logo=supabase&logoColor=darkgreen"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>

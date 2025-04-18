@@ -14,12 +14,6 @@
 
 
 
-  ## About Me
-<ul>
-  <li> I’m currently working on Android Developement with Android Native. </li>
-  <li> I'm a Computer Science Engineering Student  </li>
-  <li> I love to solve Data Structure and Algorithm Problems . </li>
-<ul>
 
 <br/>
 

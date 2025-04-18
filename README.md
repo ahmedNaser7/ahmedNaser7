@@ -13,10 +13,6 @@
 </p>
 
 
-
-
-<br/>
-
 ## Favorite Tools
 
 ### Programming Languages
